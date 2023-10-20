@@ -1,1 +1,1 @@
-web: gunicorn guessthelogo.wsgi
+web: gunicorn football_app.wsgi
