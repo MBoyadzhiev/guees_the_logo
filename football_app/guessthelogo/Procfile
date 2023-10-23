@@ -1,1 +1,0 @@
-web: gunicorn guessthelogo.wsgi
